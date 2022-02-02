@@ -2,7 +2,6 @@
 
 ### Este articulo es una recopilación de la información más relevante de [Clean Code](https://softwarecrafters.io/javascript/clean-code-javascript) escrito por Miguel A. Gómez.
 
-Adjunto mi articulo Clean-Code-EN **en inglés,** lo puedes visitar **[aquí](https://www.notion.so/Clean-Code-e810e660fe0d4db68d8af91ad9a341d5).**
 
 ---
 
